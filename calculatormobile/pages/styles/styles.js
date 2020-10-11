@@ -4,6 +4,7 @@ export const globalStyle = StyleSheet.create({
 	page: {
 		flexDirection: 'column',
 		flex: 1,
+		backgroundColor: '#eee',
 	},
 	header: {
 		flex: 1,

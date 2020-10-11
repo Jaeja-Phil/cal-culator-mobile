@@ -24,7 +24,6 @@
 		4FDC29EEB4E8FACA20927344 /* libPods-calculatormobile-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = EF06C00C91F064110BD9D360 /* libPods-calculatormobile-tvOSTests.a */; };
 		52682C90C3EBBCFA61BE9481 /* libPods-calculatormobile-calculatormobileTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = BF5E34AAE29296BE4D3DD79C /* libPods-calculatormobile-calculatormobileTests.a */; };
 		5F54ED61ED337280746BBC5B /* libPods-calculatormobile.a in Frameworks */ = {isa = PBXBuildFile; fileRef = ABA5C2B4B01E349F478709A1 /* libPods-calculatormobile.a */; };
-		6300F7FD251A6AAE00D0C9FA /* File.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6300F7FC251A6AAE00D0C9FA /* File.swift */; };
 		634A843F250137B200E7E7BA /* FBSDKCoreKit.framework.dSYM in Resources */ = {isa = PBXBuildFile; fileRef = 634A843D250137B200E7E7BA /* FBSDKCoreKit.framework.dSYM */; };
 		634A8440250137B200E7E7BA /* FBSDKLoginKit.framework.dSYM in Resources */ = {isa = PBXBuildFile; fileRef = 634A843E250137B200E7E7BA /* FBSDKLoginKit.framework.dSYM */; };
 		6353B1CC24FFCEC100A4282A /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 6353B1CB24FFCEC100A4282A /* GoogleService-Info.plist */; };
@@ -39,6 +38,7 @@
 		9C2E227CD39840F593D24C64 /* FontAwesome5_Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CF0849C757144794890EB0AE /* FontAwesome5_Regular.ttf */; };
 		9CDB23F9E0B740CEA76B5938 /* Ionicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6F6791CFBD904E67BC118883 /* Ionicons.ttf */; };
 		A17333DEF2F010EF069F4620 /* libPods-calculatormobile-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 883DD213297B871693C347F5 /* libPods-calculatormobile-tvOS.a */; };
+		DFAA73342531E4C300891F35 /* File.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFAA73332531E4C300891F35 /* File.swift */; };
 		FA6AA05598E54C628D38F8A1 /* Octicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5BA33C79347D4648BD47A242 /* Octicons.ttf */; };
 /* End PBXBuildFile section */
 
@@ -80,7 +80,6 @@
 		5B897FD9B36685660DE17B40 /* Pods-calculatormobile-calculatormobileTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-calculatormobile-calculatormobileTests.debug.xcconfig"; path = "Target Support Files/Pods-calculatormobile-calculatormobileTests/Pods-calculatormobile-calculatormobileTests.debug.xcconfig"; sourceTree = "<group>"; };
 		5BA33C79347D4648BD47A242 /* Octicons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Octicons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Octicons.ttf"; sourceTree = "<group>"; };
 		6300F7FB251A6AAD00D0C9FA /* calculatormobile-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "calculatormobile-Bridging-Header.h"; sourceTree = "<group>"; };
-		6300F7FC251A6AAE00D0C9FA /* File.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = File.swift; sourceTree = "<group>"; };
 		634A843D250137B200E7E7BA /* FBSDKCoreKit.framework.dSYM */ = {isa = PBXFileReference; lastKnownFileType = wrapper.dsym; path = FBSDKCoreKit.framework.dSYM; sourceTree = "<group>"; };
 		634A843E250137B200E7E7BA /* FBSDKLoginKit.framework.dSYM */ = {isa = PBXFileReference; lastKnownFileType = wrapper.dsym; path = FBSDKLoginKit.framework.dSYM; sourceTree = "<group>"; };
 		6353B1CB24FFCEC100A4282A /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
@@ -100,6 +99,7 @@
 		D2509CD887AF4827ABC105DA /* MaterialCommunityIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = MaterialCommunityIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/MaterialCommunityIcons.ttf"; sourceTree = "<group>"; };
 		D6D661BD48414B2781410D7E /* Feather.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Feather.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Feather.ttf"; sourceTree = "<group>"; };
 		D8C5CB7D255F5D9996B1B3A1 /* Pods-calculatormobile-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-calculatormobile-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-calculatormobile-tvOS/Pods-calculatormobile-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
+		DFAA73332531E4C300891F35 /* File.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = File.swift; sourceTree = "<group>"; };
 		E24AE6B624C5432A89FE7D22 /* MaterialIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = MaterialIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/MaterialIcons.ttf"; sourceTree = "<group>"; };
 		E67BDF0E1EF7040669AEC9D7 /* Pods-calculatormobile-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-calculatormobile-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-calculatormobile-tvOSTests/Pods-calculatormobile-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
@@ -172,8 +172,8 @@
 				81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */,
 				13B07FB71A68108700A75B9A /* main.m */,
 				6353B1CB24FFCEC100A4282A /* GoogleService-Info.plist */,
-				6300F7FC251A6AAE00D0C9FA /* File.swift */,
 				6300F7FB251A6AAD00D0C9FA /* calculatormobile-Bridging-Header.h */,
+				DFAA73332531E4C300891F35 /* File.swift */,
 			);
 			name = calculatormobile;
 			sourceTree = "<group>";
@@ -355,7 +355,7 @@
 		83CBB9F71A601CBA00E9B192 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 1130;
+				LastUpgradeCheck = 1160;
 				TargetAttributes = {
 					00E356ED1AD99517003FC87E = {
 						CreatedOnToolsVersion = 6.2;
@@ -739,7 +739,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */,
-				6300F7FD251A6AAE00D0C9FA /* File.swift in Sources */,
+				DFAA73342531E4C300891F35 /* File.swift in Sources */,
 				13B07FC11A68108700A75B9A /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -1222,6 +1222,7 @@
 				);
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;

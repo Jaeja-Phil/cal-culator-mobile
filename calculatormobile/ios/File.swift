@@ -2,7 +2,7 @@
 //  File.swift
 //  calculatormobile
 //
-//  Created by 경두현 on 2020/09/23.
+//  Created by Phillip Choi on 2020/10/10.
 //
 
 import Foundation

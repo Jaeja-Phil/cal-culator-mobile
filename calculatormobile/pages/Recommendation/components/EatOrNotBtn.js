@@ -4,12 +4,14 @@ import { View, StyleSheet, Text, TouchableOpacity } from 'react-native';
 export default function EatOrNotBtn({ setIsDoEat }) {
 	return (
 		<View style={styles.container}>
-			<TouchableOpacity style={{ ...styles.btn, backgroundColor: 'lightgreen' }}
+			<TouchableOpacity
+				style={{ ...styles.btn, backgroundColor: 'lightgreen' }}
 				onPress={() => setIsDoEat(true)}
 			>
 				<Text style={styles.text}>섭취하세요</Text>
 			</TouchableOpacity>
-			<TouchableOpacity style={{ ...styles.btn, backgroundColor: '#F30' }}
+			<TouchableOpacity
+				style={{ ...styles.btn, backgroundColor: '#F30' }}
 				onPress={() => setIsDoEat(false)}
 			>
 				<Text style={styles.text}>그만드세요</Text>
@@ -34,5 +36,5 @@ const styles = StyleSheet.create({
 	},
 	text: {
 		fontWeight: 'bold',
-	}
+	},
 });

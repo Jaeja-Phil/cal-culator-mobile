@@ -34,7 +34,7 @@ const styles = StyleSheet.create({
 		marginBottom: 10,
 	},
 	searchInput: {
-		backgroundColor: '#ddd',
+		backgroundColor: '#fff',
 		width: '70%',
 		height: '100%',
 		justifyContent: 'center',
